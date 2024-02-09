@@ -1,0 +1,6 @@
+train: ../crash_car/images/training
+val: ../crash_car/labels/validation
+#number of classes i.e while labelling we used accident and car so 2 classes
+nc: 2
+#class names
+names: ['car', 'accident']

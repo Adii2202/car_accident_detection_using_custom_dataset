@@ -1,0 +1,10 @@
+- Open the Collab file on google collab and then run it on the gpu
+- use img.py for getting the frames from the video
+- use the labelImg for labelling the custom dataset i.e for the annotations
+- for setting the labelImg we need python 3.8 use conda environment for setting the python 3.8
+- save all the labels into images folder
+- create a crash_car file and inside it create two files images and labels - inside this two create training and validation. Inside training and validation of both the images and labels paste the content of the images folder i.e image and its .txt file
+- Upload the crash_car.zip extract into dataset
+- create a data.yaml in it in the preferred path inside datasets/crash_course
+- After 100 epochs get the best.pt model from the weights folder of the train folder
+- download the best.pt and use it into main file.

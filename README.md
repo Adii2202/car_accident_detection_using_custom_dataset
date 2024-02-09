@@ -1,3 +1,4 @@
+- Collab link - https://colab.research.google.com/drive/1quY4x7S3VYf4f8wu9a9HJzmbrTnHvEXu#scrollTo=D2YkphuiaE7_
 - Open the Collab file on google collab and then run it on the gpu
 - use img.py for getting the frames from the video
 - use the labelImg for labelling the custom dataset i.e for the annotations
